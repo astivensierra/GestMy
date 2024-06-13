@@ -1,0 +1,72 @@
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Documents\Proyectos\PruebasMyGest\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\IVAN F\OneDrive\Escritorio\PruebaMYG-main\PruebaMYG-main\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\JOTA\Desktop\anuar\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.dll
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.dll
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+D:\Users\mario\Downloads\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
