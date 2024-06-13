@@ -39,24 +39,16 @@ namespace Gest
         {
 
             Proyectos = new List<Proyecto>();
-            if (Proyectos == null)
+            if (Proyectos.Count <= 0)
             {
-                Proyectos = firestore.GetProyectos().GetAwaiter().GetResult();
+                Proyectos = firestore.GetProyectos().Result;
             }
-            Proyecto p1 = new Proyecto("carlos", "Repositorio de carlos");
-            Proyecto p2 = new Proyecto("carlos", "Repositorio de carlos");
-            Proyecto p3 = new Proyecto("carlos", "Repositorio de carlos");
-            p1.Id = p2.Id = p3.Id = 2;
-            Proyectos.Add(p1);
-            Proyectos.Add(p2);
-            Proyectos.Add(p3);
-
-            if (Proyectos != null)
+            if (Proyectos.Count >= 0)
             {
                 tablaProyecto.Rows.Clear();
                 foreach (var proyecto in Proyectos)
                 {
-                    tablaProyecto.Rows.Add(proyecto.Id, proyecto.Nombre, proyecto.Descripcion);
+                    tablaProyecto.Rows.Add(proyecto.Id, proyecto.Nombre, proyecto.Descripcion, proyecto.FechaDeInicio, proyecto.FechaDeFinalizacion);
                 }
             }
         }

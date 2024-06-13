@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\JOTA\\Desktop\\GestMy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08692B7F-937E-4CD2-B7F8-379892ABB0C0}|DLL\\DLL.csproj|c:\\users\\jota\\desktop\\gestmy\\dll\\firestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08692B7F-937E-4CD2-B7F8-379892ABB0C0}|DLL\\DLL.csproj|solutionrelative:dll\\firestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\crearproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\crearproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|C:\\Users\\JOTA\\Desktop\\GestMy\\gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{643BD9EC-E824-436B-985F-EB9B5CA1C725}|ENTITY\\ENTITY.csproj|c:\\users\\jota\\desktop\\gestmy\\entity\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{643BD9EC-E824-436B-985F-EB9B5CA1C725}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\crearproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|C:\\Users\\JOTA\\Desktop\\GestMy\\gest\\crearproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\crearproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,27 +31,11 @@
       "RelativeMoniker": "D:0:0:{643BD9EC-E824-436B-985F-EB9B5CA1C725}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08692B7F-937E-4CD2-B7F8-379892ABB0C0}|DLL\\DLL.csproj|c:\\users\\jota\\desktop\\gestmy\\dll\\firestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08692B7F-937E-4CD2-B7F8-379892ABB0C0}|DLL\\DLL.csproj|solutionrelative:dll\\firestorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\consultarproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|C:\\Users\\JOTA\\Desktop\\GestMy\\gest\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\crearproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\crearproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|c:\\users\\jota\\desktop\\gestmy\\gest\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|C:\\Users\\JOTA\\Desktop\\GestMy\\gest\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A589F77-87EC-472E-A82D-2B6D24896FF9}|Gest\\Gest.csproj|solutionrelative:gest\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,25 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Proyecto.cs",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\ENTITY\\Proyecto.cs",
               "RelativeDocumentMoniker": "ENTITY\\Proyecto.cs",
               "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\ENTITY\\Proyecto.cs",
               "RelativeToolTip": "ENTITY\\Proyecto.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCsAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T06:30:51.803Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\ENTITY\\Usuario.cs",
               "RelativeDocumentMoniker": "ENTITY\\Usuario.cs",
@@ -73,83 +72,79 @@
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T06:30:47.148Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ConsultarProyectos.cs [Dise\u00F1o]",
+              "Title": "ConsultarProyectos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\ConsultarProyectos.cs",
               "RelativeDocumentMoniker": "Gest\\ConsultarProyectos.cs",
-              "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\ConsultarProyectos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Gest\\ConsultarProyectos.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\ConsultarProyectos.cs [Design]",
+              "RelativeToolTip": "Gest\\ConsultarProyectos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T07:24:31.125Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "CrearProyecto.cs",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\CrearProyecto.cs",
               "RelativeDocumentMoniker": "Gest\\CrearProyecto.cs",
               "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\CrearProyecto.cs",
               "RelativeToolTip": "Gest\\CrearProyecto.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCAAAAA0AAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T07:10:35.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FirestoreRepository.cs",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\DLL\\FirestoreRepository.cs",
               "RelativeDocumentMoniker": "DLL\\FirestoreRepository.cs",
               "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\DLL\\FirestoreRepository.cs",
               "RelativeToolTip": "DLL\\FirestoreRepository.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAswBYAAABKAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA7wBYAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:56:00.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T06:56:00.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Registrar.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\Registrar.cs",
               "RelativeDocumentMoniker": "Gest\\Registrar.cs",
               "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\Registrar.cs [Dise\u00F1o]",
               "RelativeToolTip": "Gest\\Registrar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:49:11.906Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T06:49:11.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ConsultarProyectos.cs",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\ConsultarProyectos.cs",
               "RelativeDocumentMoniker": "Gest\\ConsultarProyectos.cs",
               "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\ConsultarProyectos.cs",
               "RelativeToolTip": "Gest\\ConsultarProyectos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T06:16:49.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CrearProyecto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\CrearProyecto.cs",
               "RelativeDocumentMoniker": "Gest\\CrearProyecto.cs",
               "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\CrearProyecto.cs [Dise\u00F1o]",
               "RelativeToolTip": "Gest\\CrearProyecto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:17:34.705Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T06:17:34.705Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "ToolTip": "C:\\Users\\JOTA\\Desktop\\GestMy\\Gest\\Principal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Gest\\Principal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:17:32.05Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-13T06:17:32.05Z"
             }
           ]
         }
