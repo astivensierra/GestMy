@@ -1326,23 +1326,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sierr\\.nuget\\packages\\": {},
+    "C:\\Users\\JOTA\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sierr\\Desktop\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\\DLL\\DLL.csproj",
+      "projectUniqueName": "C:\\Users\\JOTA\\Desktop\\GestMy\\DLL\\DLL.csproj",
       "projectName": "DLL",
-      "projectPath": "C:\\Users\\sierr\\Desktop\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\\DLL\\DLL.csproj",
-      "packagesPath": "C:\\Users\\sierr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sierr\\Desktop\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\\DLL\\obj\\",
+      "projectPath": "C:\\Users\\JOTA\\Desktop\\GestMy\\DLL\\DLL.csproj",
+      "packagesPath": "C:\\Users\\JOTA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JOTA\\Desktop\\GestMy\\DLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JOTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1358,8 +1358,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sierr\\Desktop\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\\ENTITY\\ENTITY.csproj": {
-              "projectPath": "C:\\Users\\sierr\\Desktop\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\\ENTITY\\ENTITY.csproj"
+            "C:\\Users\\JOTA\\Desktop\\GestMy\\ENTITY\\ENTITY.csproj": {
+              "projectPath": "C:\\Users\\JOTA\\Desktop\\GestMy\\ENTITY\\ENTITY.csproj"
             }
           }
         }
@@ -1420,7 +1420,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

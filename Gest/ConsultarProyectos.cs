@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using ENTITY;
 using BLL;
+using Google.Cloud.Firestore;
 
 
 namespace Gest
@@ -42,9 +43,9 @@ namespace Gest
             {
                 Proyectos = firestore.GetProyectos().GetAwaiter().GetResult();
             }
-            Proyecto p1 = new Proyecto("carlos", "Repositorio de carlos", DateTime.Now.Date, DateTime.Now.Date);
-            Proyecto p2 = new Proyecto("carlos", "Repositorio de carlos", DateTime.Now.Date, DateTime.Now.Date);
-            Proyecto p3 = new Proyecto("carlos", "Repositorio de carlos", DateTime.Now.Date, DateTime.Now.Date);
+            Proyecto p1 = new Proyecto("carlos", "Repositorio de carlos");
+            Proyecto p2 = new Proyecto("carlos", "Repositorio de carlos");
+            Proyecto p3 = new Proyecto("carlos", "Repositorio de carlos");
             p1.Id = p2.Id = p3.Id = 2;
             Proyectos.Add(p1);
             Proyectos.Add(p2);
@@ -55,7 +56,7 @@ namespace Gest
                 tablaProyecto.Rows.Clear();
                 foreach (var proyecto in Proyectos)
                 {
-                    tablaProyecto.Rows.Add(proyecto.Id, proyecto.Nombre, proyecto.Descripcion, proyecto.FechaDeInicio, proyecto.FechaDeFinalizacion);
+                    tablaProyecto.Rows.Add(proyecto.Id, proyecto.Nombre, proyecto.Descripcion);
                 }
             }
         }

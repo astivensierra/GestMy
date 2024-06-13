@@ -70,3 +70,16 @@ C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\Prue
 C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
 C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ENTITY.pdb
 C:\Users\sierr\Desktop\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e-4\PruebaMYG-478a295561e759edaf078cf84aa4f3e7819f2a5e\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+C:\Users\JOTA\Desktop\GestMy\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\JOTA\Desktop\GestMy\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\JOTA\Desktop\GestMy\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.sourcelink.json
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll

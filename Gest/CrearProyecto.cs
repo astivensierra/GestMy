@@ -8,8 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using ENTITY;
 using BLL;
+using Google.Cloud.Firestore;
 
 namespace Gest
 {
@@ -27,38 +27,55 @@ namespace Gest
 
         private async void btnCrear_Click(object sender, EventArgs e)
         {
-            FirestoreService firestoreService = new FirestoreService();
-            Proyecto proyecto = new Proyecto();
-            proyecto.Nombre = tbNombre.Text;
-            proyecto.Descripcion = tbDescripcion.Text;
-            proyecto.FechaDeInicio = DateTime.Parse(dtFechaInicio.Text);
-            proyecto.FechaDeFinalizacion = DateTime.Parse(dtFechaFinal.Text);
+            string nombreProyecto = tbNombre.Text;
+            string descripcionProyecto = tbDescripcion.Text;
+            string propietario = tbPropietario.Text;
+            string repositorio = tbRepositorio.Text;
+            string FechaDeInicio = dtFechaInicio.Text;
+            string FechaDeFinalizacion = dtFechaFinal.Text;
 
-            List<Usuario> usuarios = await firestoreService.GetUsuarios();
-            bool repoExiste = false;
-            foreach (var user in usuarios)
+
+            if (string.IsNullOrWhiteSpace(nombreProyecto) ||
+                string.IsNullOrWhiteSpace(descripcionProyecto) ||
+                string.IsNullOrWhiteSpace(propietario) ||
+                string.IsNullOrWhiteSpace(repositorio) ||
+                string.IsNullOrWhiteSpace(FechaDeInicio) ||
+                string.IsNullOrWhiteSpace (FechaDeFinalizacion))
             {
-                if (user.Equals(tbPropietario.Text))
-                {
-                    user.Proyectos.Add(proyecto);
-                    foreach (var repo in user.repositorios)
-                    {
-                        if (repo.Equals(tbRepositorio.Text))
-                        {
-                            repoExiste = true;
-                        }
-                    }
-                    if (!repoExiste)
-                    {
-                        user.repositorios.Add(tbRepositorio.Text);
-                        await firestoreService.UpdateUsuario(user.Id + "", user);
-                        await firestoreService.CreateProyecto(proyecto);
-                    }
-                }
+                MessageBox.Show("Por favor, complete todos los campos antes de continuar.");
+                return;
             }
+            FirestoreService firestoreService = new FirestoreService();
+
+            if (!await firestoreService.ExisteUsuarioConCorreoElectronico(propietario))
+            {
+                MessageBox.Show("El propietario no existe en la base de datos.");
+                return;
+            }
+            Proyecto proyecto = new Proyecto
+            {
+                Nombre = nombreProyecto,
+                Descripcion = descripcionProyecto,
+                FechaDeInicio = dtFechaInicio.Text,
+                FechaDeFinalizacion = dtFechaFinal.Text,
+            };
+            List<Usuario> usuarios = await firestoreService.GetUsuarios();
+
+            Usuario propietarioUsuario = usuarios.FirstOrDefault(u => u.Email == propietario);
+
+            if (propietarioUsuario == null)
+            {
+                MessageBox.Show("No se pudo encontrar al propietario en la base de datos.");
+                return;
+            }
+
+            propietarioUsuario.Proyectos.Add(proyecto);
+
+            await firestoreService.UpdateUsuario(propietarioUsuario.Id.ToString(), propietarioUsuario);
+
+            await firestoreService.CreateProyecto(proyecto);
+
+            MessageBox.Show("Proyecto creado exitosamente.");
         }
-
-
     }
-    
 }

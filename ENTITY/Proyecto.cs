@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Google.Cloud.Firestore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,23 +8,38 @@ using System.Threading.Tasks;
 
 namespace ENTITY
 {
+    [FirestoreData]
     public class Proyecto
     {
+        [FirestoreProperty]
         public int Id { get; set; }
+        [FirestoreProperty]
         public string Nombre { get; set; } = string.Empty;
+        [FirestoreProperty]
         public string Descripcion { get; set; } = string.Empty;
-        public DateTime FechaDeInicio { get; set; }
-        public DateTime FechaDeFinalizacion { get; set; }
+        [FirestoreProperty]
+        public string FechaDeInicio { get; set; }
+        [FirestoreProperty]
+        public string FechaDeFinalizacion { get; set; }
+        [FirestoreProperty]
         public List<Usuario> Integrantes { get; set; } = new List<Usuario>();
+        [FirestoreProperty]
         public List<Tarea> Tareas { get; set; } = new List<Tarea>();
 
 // Constructores
-        public Proyecto(string nombre, string descripcion, DateTime fechaDeInicio, DateTime fechaDeFinalizacion)
+        public Proyecto(string nombre, string descripcion, string fechaDeInicio, string fechaDeFinalizacion)
         {
             Nombre = nombre;
             Descripcion = descripcion;
             FechaDeInicio = fechaDeInicio;
             FechaDeFinalizacion = fechaDeFinalizacion;
+        }
+
+        public Proyecto(string nombre, string descripcion)
+        {
+            Nombre = nombre;
+            Descripcion = descripcion;
+            
         }
         public Proyecto()
         {
@@ -56,12 +72,10 @@ namespace ENTITY
             }
         }
 
-        public void EditarProyecto(string nombre, string descripcion, DateTime fechaDeInicio, DateTime fechaDeFinalizacion)
+        public void EditarProyecto(string nombre, string descripcion)
         {
             Nombre = nombre;
             Descripcion = descripcion;
-            FechaDeInicio = fechaDeInicio;
-            FechaDeFinalizacion = fechaDeFinalizacion;
         }
     }
 }
