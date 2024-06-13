@@ -120,9 +120,10 @@
             lblCrearPropietarioTarea.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
             lblCrearPropietarioTarea.Location = new Point(14, 255);
             lblCrearPropietarioTarea.Name = "lblCrearPropietarioTarea";
-            lblCrearPropietarioTarea.Size = new Size(87, 20);
+            lblCrearPropietarioTarea.Size = new Size(97, 20);
             lblCrearPropietarioTarea.TabIndex = 10;
-            lblCrearPropietarioTarea.Text = "Propietario";
+            lblCrearPropietarioTarea.Text = "Responsable";
+            
             // 
             // lblFechaInicio
             // 
@@ -199,7 +200,6 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "CrearTarea";
             Text = "CrearTarea";
-            Load += CrearTarea_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ResumeLayout(false);

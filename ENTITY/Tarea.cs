@@ -9,20 +9,20 @@ namespace ENTITY
     [FirestoreData]
     public class Tarea
     {
-        [FirestoreProperty]
+        [FirestoreProperty(Name = "id")]
         public int Id { get; set; }
         [FirestoreProperty]
         public string Nombre { get; set; } = string.Empty;
         [FirestoreProperty]
         public string Descripcion { get; set; } = string.Empty;
         [FirestoreProperty]
-        public DateTime FechaDeInicio { get; set; }
+        public string FechaDeInicio { get; set; }
         [FirestoreProperty]
-        public DateTime FechaDeFinalizacion { get; set; }
+        public string FechaDeFinalizacion { get; set; }
         [FirestoreProperty]
         public Usuario Responsable { get; set; } = new Usuario();
         [FirestoreProperty]
-        public Proyecto Proyecto { get; set; }
+        public Proyecto ProyectoId { get; set; }
         [FirestoreProperty]
         public string Estado { get; set; } = string.Empty;
         [FirestoreProperty]
@@ -55,7 +55,7 @@ namespace ENTITY
             Comentarios.Add(comentario);
         }
 
-        public void EditarTarea(string nombre, string descripcion, DateTime fechaDeInicio, DateTime fechaDeFinalizacion)
+        public void EditarTarea(string nombre, string descripcion, string fechaDeInicio, string fechaDeFinalizacion)
         {
             Nombre = nombre;
             Descripcion = descripcion;

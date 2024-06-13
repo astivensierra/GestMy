@@ -11,7 +11,7 @@ namespace ENTITY
     [FirestoreData]
     public class Proyecto
     {
-        [FirestoreProperty]
+        [FirestoreProperty(Name = "id")]
         public int Id { get; set; }
         [FirestoreProperty]
         public string Nombre { get; set; } = string.Empty;

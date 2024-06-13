@@ -1,16 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ENTITY;
 using BLL;
-using Google.Cloud.Firestore;
-
 
 namespace Gest
 {
@@ -21,41 +15,45 @@ namespace Gest
 
         public ConsultarProyectos()
         {
-            this.Visible = true;
             InitializeComponent();
-
             Rellenar();
-
         }
 
         private void ConsultarProyectos_Load(object sender, EventArgs e)
         {
-            
+            // Este método puede quedar vacío o puedes inicializar otras cosas aquí si es necesario
         }
 
-
-
-        private void Rellenar()
+        private async void Rellenar()
         {
+            try
+            {
+                // Obtener los proyectos desde Firestore
+                Proyectos = await firestore.GetProyectos();
 
-            Proyectos = new List<Proyecto>();
-            if (Proyectos.Count <= 0)
-            {
-                Proyectos = firestore.GetProyectos().Result;
-            }
-            if (Proyectos.Count >= 0)
-            {
-                tablaProyecto.Rows.Clear();
-                foreach (var proyecto in Proyectos)
+                // Si se obtienen proyectos, llenar el DataGridView
+                if (Proyectos != null && Proyectos.Any())
                 {
-                    tablaProyecto.Rows.Add(proyecto.Id, proyecto.Nombre, proyecto.Descripcion, proyecto.FechaDeInicio, proyecto.FechaDeFinalizacion);
+                    tablaProyecto.Rows.Clear();
+                    foreach (var proyecto in Proyectos)
+                    {
+                        tablaProyecto.Rows.Add(proyecto.Id, proyecto.Nombre, proyecto.Descripcion, proyecto.FechaDeInicio, proyecto.FechaDeFinalizacion);
+                    }
                 }
+                else
+                {
+                    MessageBox.Show("No se encontraron proyectos.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error al cargar los proyectos: {ex.Message}");
             }
         }
 
         private void tablaProyecto_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+            // Puedes manejar los eventos de clic en las celdas aquí si es necesario
         }
     }
 }

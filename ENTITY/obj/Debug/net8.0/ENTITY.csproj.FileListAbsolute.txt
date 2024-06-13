@@ -83,3 +83,15 @@ C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.dll
 C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
 C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ENTITY.pdb
 C:\Users\JOTA\Desktop\GestMy\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\bin\Debug\net8.0\ENTITY.deps.json
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\bin\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\bin\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ENTITY.AssemblyInfo.cs
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ENTITY.dll
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\refint\ENTITY.dll
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ENTITY.pdb
+C:\Users\sierr\Desktop\MyGestPro\GestMy-596c08da57d97223d86845ec92fceb1dc9a6bec2\ENTITY\obj\Debug\net8.0\ref\ENTITY.dll
